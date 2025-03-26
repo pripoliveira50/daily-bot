@@ -205,17 +205,18 @@ If you need to test or debug the code:
 
 ---
 
+## 🤝 How to Contribute
+
+Please refer to our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute to the project.
+
+---
+
 ## 📄 License
 
 This project is under the MIT License.
 
----
 
 💡 Developed to help agile teams keep their daily stand-ups organized! 🚀
-
-💡 **Contributions**  
-Feel free to open issues and pull requests for improvements or fixes!
-
 ---
 
 🚀 Made with ❤️ by [Priscila Oliveira](https://github.com/pripoliveira50/)
